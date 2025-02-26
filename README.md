@@ -121,3 +121,5 @@ npm start
 海风小店小程序商城3群 1130172339（已满）  
 海风小店小程序商城4群 652317079    
 <img width="500" src="https://raw.githubusercontent.com/iamdarcy/hiolabs/master/git-images/contact.jpg"/>
+
+qingwei 版本
